@@ -9,17 +9,17 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: CJ Alexander # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: My professional blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  blog, cjkhaled, software engineering, security
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: CJ_Alexander
+  name: CJ Alexander
   email: cjalexander900@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/v2/D5603AQFOag36mbgEig/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1693661746910?e=1736380800&v=beta&t=yUsquMCauTlLITlGy5DFL48Ddj2BT5kqMLytxN4vw28
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
